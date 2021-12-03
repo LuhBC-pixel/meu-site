@@ -59,6 +59,8 @@ const skills = [
   'Git',
   'CI/CD',
   'Node.js',
+  'Express',
+  'Firebase',
 ]
 
 const contact = {
