@@ -57,7 +57,6 @@ const skills = [
   'Material UI',
   'Tailwind CSS',
   'Git',
-  'CI/CD',
   'Node.js',
   'Express',
   'Firebase',
